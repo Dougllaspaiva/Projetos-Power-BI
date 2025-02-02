@@ -11,3 +11,5 @@ Sales_Dashboard.png (captura de tela): Imagem ilustrativa do dashboard com algum
 Como Usar:
 Para Visualizar Interativamente: Abra o arquivo Global_Sales_Analytics.pbix no Power BI Desktop. Ao abrir, você pode aplicar filtros para visualizar as métricas de vendas por país, ano e segmento.
 Para Referência Visual: Consulte a imagem Sales_Dashboard.png para ver como o painel se apresenta.
+
+![image](https://github.com/user-attachments/assets/ebe213cf-53fe-488f-bb89-9c7ee114bcda)
